@@ -129,7 +129,7 @@ p{
 
 /* main banner image styling starts here */
 .banner1{
-    background-image: url(./IMAGES/banner-01.jpg);
+    background-image: url(./banner-01.jpg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
